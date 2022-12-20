@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-	"start": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "tarot",
@@ -25,7 +25,9 @@
   "author": "Ivan Markov <markov.iv.vl@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "node-telegram-bot-api": "^0.60.0",
+    "node-telegram-bot-api": "^0.60.0"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.20"
   }
 }
