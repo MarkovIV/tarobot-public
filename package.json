@@ -1,0 +1,31 @@
+{
+  "name": "tarobot",
+  "version": "1.0.0",
+  "description": "Taronomics Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+	"start": "node index.js"
+  },
+  "keywords": [
+    "tarot",
+    "taro",
+    "economics",
+    "markova",
+    "markov",
+    "taronomics",
+    "bot",
+    "tarot-bot",
+    "taro-bot",
+    "tarobot",
+    "tarotbot",
+    "taronomics-bot",
+    "taronomicsbot"
+  ],
+  "author": "Ivan Markov <markov.iv.vl@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0",
+    "nodemon": "^2.0.20"
+  }
+}
